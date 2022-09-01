@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CattleRanch.Application\CattleRanch.Application.csproj" />
+    <ProjectReference Include="..\CattleRanch.Infrastructure.EFCore\CattleRanch.Infrastructure.EFCore.csproj" />
+    <ProjectReference Include="..\CattleRanch.Kernel.Exceptions\CattleRanch.Kernel.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>
