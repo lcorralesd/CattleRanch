@@ -10,8 +10,6 @@ public record UpdateAnimalCommand(
     string? Brand,
     string Sex,
     string Origin,
-    string Health,
-    string HornStatus,
     Guid BreedId,
     Guid FarmId,
     DateTime DOB,

@@ -14,7 +14,7 @@ public class SeedDataHandler : IRequestHandler<SeedDataCommand, Unit>
 
     public async Task<Unit> Handle(SeedDataCommand request, CancellationToken cancellationToken)
     {
-        var initialized = await _context.Breeds.AnyAsync(b => b.Name != null);
+        var initialized = await _context.Breeds.AnyAsync(cancellationToken: cancellationToken);
 
         var breeds = new List<Breed>();
         var farms = new List<Farm>();
@@ -70,9 +70,9 @@ public class SeedDataHandler : IRequestHandler<SeedDataCommand, Unit>
                 new Guid("9eba4aca-45ce-44b3-93aa-49800256454b"),
                 new Guid("e0b37a6d-0f91-4537-aae1-7f5b91f7303a"),
                 new DateTime(2010, 01, 01),
-                35,
+                35m,
                 new DateTime(2010, 01, 01),
-                35,
+                35m,
                 null,
                 null,
                 DateTimeOffset.Now
@@ -90,9 +90,9 @@ public class SeedDataHandler : IRequestHandler<SeedDataCommand, Unit>
                 new Guid("9eba4aca-45ce-44b3-93aa-49800256454b"),
                 new Guid("e0b37a6d-0f91-4537-aae1-7f5b91f7303a"),
                 new DateTime(2010, 01, 01),
-                35,
+                35m,
                 new DateTime(2010, 01, 01),
-                35,
+                35m,
                 null,
                 null,
                 DateTimeOffset.Now));

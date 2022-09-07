@@ -9,7 +9,7 @@ public static class DependencyContainer
 {
     public static IServiceCollection AddInfrastructureEFCoreServices(this IServiceCollection services, IConfiguration configuration)
     {
-        services.AddDbContext<CattleRanchDbContext>(opt => opt.UseSqlServer(configuration.GetConnectionString("DefaultSQLServer")!));
+        services.AddDbContextPool<CattleRanchDbContext>(opt => opt.UseSqlServer(configuration.GetConnectionString("DefaultSQLServer")!));
 
         services.AddScoped<IApplicationDbContext, CattleRanchDbContext>();
 

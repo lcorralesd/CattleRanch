@@ -23,10 +23,10 @@ public static class WebApplicationHelper
         builder.Services.AddIoCServices(builder.Configuration);
 
         builder.Services.AddCors(options => options.AddDefaultPolicy(config => config.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin().WithExposedHeaders("X-Pagination")));
-        builder.Services.Configure<FormOptions>(opt =>
-        {
-            opt.MemoryBufferThreshold = int.MaxValue;
-        });
+        //builder.Services.Configure<FormOptions>(opt =>
+        //{
+        //    opt.MemoryBufferThreshold = int.MaxValue;
+        //});
 
         builder.Services.AddRazorPages();
 

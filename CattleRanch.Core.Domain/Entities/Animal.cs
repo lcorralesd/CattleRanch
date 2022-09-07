@@ -197,6 +197,8 @@ public class Animal : AuditableEntity
 
     public void Inactive() => this.Status = Enums.Status.Inactivo;
 
+    public void SetDiscard() => this.Discard = true;
+
     public void UpdateStatus(Status status, DateTime updateStatusDate, string? updateStatusReason)
     {
         Status = status;
@@ -212,7 +214,6 @@ public class Animal : AuditableEntity
         string? brand,
         Sex sex,
         Origin origin,
-        bool discard,
         DateTime dOB,
         decimal birthWeight,
         DateTime arrivalDate,
@@ -229,7 +230,6 @@ public class Animal : AuditableEntity
         Brand = brand;
         Sex = sex;
         Origin = origin;
-        Discard = discard;
         DOB = dOB;
         BirthWeight = birthWeight;
         ArrivalDate = arrivalDate;

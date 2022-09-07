@@ -12,8 +12,9 @@ public class GetAllBreedsHandler : IRequestHandler<GetAllBreedsQuery, PagedList<
 
     public async Task<PagedList<GetAllBreedsDTO>> Handle(GetAllBreedsQuery request, CancellationToken cancellationToken)
     {
-        var breeds = await _context.Breeds.
-        Select(b => new GetAllBreedsDTO(
+        var breeds = await _context.Breeds
+            .AsNoTracking()
+            .Select(b => new GetAllBreedsDTO(
             b.Id,
             b.Name
         )).ToListAsync(cancellationToken: cancellationToken) as IReadOnlyList<GetAllBreedsDTO>;

@@ -13,6 +13,7 @@ public class GetAllAnimalsHandler : IRequestHandler<GetAllAnimalsQuery, PagedLis
     public async Task<PagedList<GetAllAnimalsDTO>> Handle(GetAllAnimalsQuery request, CancellationToken cancellationToken)
     {
         var animals = await _context.Animals
+            .AsNoTracking()
             .Where(a => a.Status == Core.Domain.Enums.Status.Activo)
             .Select(a => new GetAllAnimalsDTO(
             a.Id,

@@ -34,7 +34,6 @@ public class UpdateAnimalHandler : IRequestHandler<UpdateAnimalCommand>
             request.Brand,
             Utils.ParseEnum<Sex>(request.Sex),
             Utils.ParseEnum<Origin>(request.Origin),
-            false,
             request.DOB,
             request.BirthWeight,
             request.ArrivalDate,

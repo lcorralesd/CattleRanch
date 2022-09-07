@@ -23,10 +23,6 @@ public class UpdateAnimalValidator : ValidatorWrapper<UpdateAnimalCommand>
         RuleFor(c => c.Brand)
             .MaximumLength(3).WithMessage("El Hierro no debe ser mayor a 3 caracteres");
 
-        RuleFor(c => c.HornStatus)
-            .IsEnumName(typeof(HornStatus), true)
-            .WithMessage("Debe ingresar el estado de los cuernos del animal entre Descornado o Cuernos");
-
         RuleFor(c => c.Sex)
             .IsEnumName(typeof(Sex), true)
             .WithMessage("Debe ingresar un valor para el sexo del animal entre Hembra o Macho");
