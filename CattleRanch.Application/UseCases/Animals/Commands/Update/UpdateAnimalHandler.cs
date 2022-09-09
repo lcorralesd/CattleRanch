@@ -21,7 +21,7 @@ public class UpdateAnimalHandler : IRequestHandler<UpdateAnimalCommand>
     {
         await _validationService.ExcecuteValidationsGuard(request);
 
-        var animalToUpdate = await _context.Animals.FindAsync(request.Id);
+        var animalToUpdate = await _context.Animals.FindAsync(new object?[] { request.Id }, cancellationToken: cancellationToken);
         if (animalToUpdate == null)
         {
             throw new NotFoundException($"No se encontro el registro con Id: {request.Id}");

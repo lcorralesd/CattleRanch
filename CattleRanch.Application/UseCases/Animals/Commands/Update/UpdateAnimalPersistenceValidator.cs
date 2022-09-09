@@ -31,7 +31,7 @@ public class UpdateAnimalPersistenceValidator : IValidator<UpdateAnimalCommand>
 
         result = animal switch
         {
-            UpdateAnimalCommand e when _context.Animals.Any(x => x.Code == e.Code) =>
+            UpdateAnimalCommand e when _context.Animals.Any(x => x.Code == e.Code && e.Id != x.Id) =>
                new("Code", $"Ya existe un animal con el Código: '{e.Code}'."),
 
             UpdateAnimalCommand e when !_context.Breeds.Any(x => x.Id == e.BreedId) =>
