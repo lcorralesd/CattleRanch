@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uX2zoiUjQPh4yFPrkylcEJxTBp+GpNzV3INpoaEBetD2pSg+jPwj/j0pKYhnyCUTzMu1y+H4023Luif8ZB8+yg==",
+  "dgSpecHash": "/xL1TBOTycw0Vz1eMeSQ220rejvegeJTRwiXGYOaeaWiGL/d2bjJ4E9XT5SR9lCLReoE2tgyQ1gj1JY6agQsag==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj",
+  "projectFilePath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\libar\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\libar\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.2\\fluentvalidation.dependencyinjectionextensions.11.2.2.nupkg.sha512",

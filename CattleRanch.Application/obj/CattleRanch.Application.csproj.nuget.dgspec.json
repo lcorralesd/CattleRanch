@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\CattleRanch\\CattleRanch.Application\\CattleRanch.Application.csproj": {}
+    "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Application\\CattleRanch.Application.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\CattleRanch\\CattleRanch.Application\\CattleRanch.Application.csproj": {
+    "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Application\\CattleRanch.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\CattleRanch\\CattleRanch.Application\\CattleRanch.Application.csproj",
+        "projectUniqueName": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Application\\CattleRanch.Application.csproj",
         "projectName": "CattleRanch.Application",
-        "projectPath": "D:\\Projects\\CattleRanch\\CattleRanch.Application\\CattleRanch.Application.csproj",
+        "projectPath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Application\\CattleRanch.Application.csproj",
         "packagesPath": "C:\\Users\\libar\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\CattleRanch\\CattleRanch.Application\\obj\\",
+        "outputPath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projects\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj": {
-                "projectPath": "D:\\Projects\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj"
+              "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj"
               },
-              "D:\\Projects\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj": {
-                "projectPath": "D:\\Projects\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj"
+              "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\Projects\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj": {
+    "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj",
         "projectName": "CattleRanch.Core.Domain",
-        "projectPath": "D:\\Projects\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj",
+        "projectPath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\libar\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\CattleRanch\\CattleRanch.Core.Domain\\obj\\",
+        "outputPath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -141,14 +141,14 @@
         }
       }
     },
-    "D:\\Projects\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj": {
+    "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj",
         "projectName": "CattleRanch.Kernel.Exceptions",
-        "projectPath": "D:\\Projects\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj",
+        "projectPath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Kernel.Exceptions\\CattleRanch.Kernel.Exceptions.csproj",
         "packagesPath": "C:\\Users\\libar\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\CattleRanch\\CattleRanch.Kernel.Exceptions\\obj\\",
+        "outputPath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Kernel.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

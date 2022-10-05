@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OCo1G+ehTO4cDNhOkG3MYMMJ2goq1P4OulRvDKwk0pDtqLTEv4b+afAuC7fWwHV5TkAKt0lmMmRKQwd2ht1CMg==",
+  "dgSpecHash": "2p183hllbKBRVvo2r1KUyOj6B/HzE1TLXyqRZJP/Kq631UslCMU1Jv/PJkxOg7XaumplsQxhK8qBhVVzxiFCDw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj",
+  "projectFilePath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

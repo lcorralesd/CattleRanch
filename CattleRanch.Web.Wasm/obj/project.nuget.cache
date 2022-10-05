@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EdCb2Xi0+GVZcvtpDm22nXIXm1wagVCGrdb9Bo7jav6ZdZj1jQpn64UeClVLXegDXS9W00zwHAP5ALcdiVPqCQ==",
+  "dgSpecHash": "5CKdATzvawtvTqxRCozTQSDbfxlsQR3Gl+mTUdnL+KV9Up0QRpjIyfVsStkanGpJKtfVUfwBjWxProopSNBrXQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CattleRanch\\CattleRanch.Web.Wasm\\CattleRanch.Web.Wasm.csproj",
+  "projectFilePath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Web.Wasm\\CattleRanch.Web.Wasm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\libar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\libar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

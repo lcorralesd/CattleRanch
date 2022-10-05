@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqD5sYwGzEqsc7TQNyukTZcPGjfkfGgInYN+iQ9+ZGgaTpXru9mF9INyedDX16+9xFKeIMQOrh7SdywI8Bs1ng==",
+  "dgSpecHash": "GQ9nRJ0SesQw5re+/TA9aEtIODj3+h60CXYSc4wjFCZindMol0YI09eJ8WSIbj2mZafN1xUSC0WUP+RYxe3PRg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CattleRanch\\CattleRanch.IoC\\CattleRanch.IoC.csproj",
+  "projectFilePath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.IoC\\CattleRanch.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\libar\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\libar\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.2\\fluentvalidation.dependencyinjectionextensions.11.2.2.nupkg.sha512",

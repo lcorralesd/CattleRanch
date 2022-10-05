@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj",
       "projectName": "CattleRanch.Core.Domain",
-      "projectPath": "D:\\Projects\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj",
+      "projectPath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Core.Domain\\CattleRanch.Core.Domain.csproj",
       "packagesPath": "C:\\Users\\libar\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\CattleRanch\\CattleRanch.Core.Domain\\obj\\",
+      "outputPath": "C:\\Users\\libar\\source\\repos\\CattleRanch\\CattleRanch.Core.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
