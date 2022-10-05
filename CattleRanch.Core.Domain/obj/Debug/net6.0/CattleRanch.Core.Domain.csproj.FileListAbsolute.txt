@@ -1,0 +1,12 @@
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\bin\Debug\net6.0\CattleRanch.Core.Domain.deps.json
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\bin\Debug\net6.0\CattleRanch.Core.Domain.dll
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\bin\Debug\net6.0\CattleRanch.Core.Domain.pdb
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\obj\Debug\net6.0\CattleRanch.Core.Domain.csproj.AssemblyReference.cache
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\obj\Debug\net6.0\CattleRanch.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\obj\Debug\net6.0\CattleRanch.Core.Domain.AssemblyInfoInputs.cache
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\obj\Debug\net6.0\CattleRanch.Core.Domain.AssemblyInfo.cs
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\obj\Debug\net6.0\CattleRanch.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\obj\Debug\net6.0\CattleRanch.Core.Domain.dll
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\obj\Debug\net6.0\refint\CattleRanch.Core.Domain.dll
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\obj\Debug\net6.0\CattleRanch.Core.Domain.pdb
+D:\Projects\CattleRanch\CattleRanch.Core.Domain\obj\Debug\net6.0\ref\CattleRanch.Core.Domain.dll

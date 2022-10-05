@@ -1,0 +1,12 @@
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\bin\Debug\net7.0\CattleRanch.Kernel.Exceptions.deps.json
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\bin\Debug\net7.0\CattleRanch.Kernel.Exceptions.dll
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\bin\Debug\net7.0\CattleRanch.Kernel.Exceptions.pdb
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\obj\Debug\net7.0\CattleRanch.Kernel.Exceptions.csproj.AssemblyReference.cache
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\obj\Debug\net7.0\CattleRanch.Kernel.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\obj\Debug\net7.0\CattleRanch.Kernel.Exceptions.AssemblyInfoInputs.cache
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\obj\Debug\net7.0\CattleRanch.Kernel.Exceptions.AssemblyInfo.cs
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\obj\Debug\net7.0\CattleRanch.Kernel.Exceptions.csproj.CoreCompileInputs.cache
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\obj\Debug\net7.0\CattleRanch.Kernel.Exceptions.dll
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\obj\Debug\net7.0\refint\CattleRanch.Kernel.Exceptions.dll
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\obj\Debug\net7.0\CattleRanch.Kernel.Exceptions.pdb
+D:\Projects\CattleRanch\CattleRanch.Kernel.Exceptions\obj\Debug\net7.0\ref\CattleRanch.Kernel.Exceptions.dll

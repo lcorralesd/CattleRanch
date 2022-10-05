@@ -13,7 +13,7 @@ public static class GetAllBreedsEndpoint
         return app;
     }
 
-    private static async Task<IResult> GetAllBreeds([AsParameters]GetAllBreedsRequestParameters parameters, IMediator mediator, HttpContext context)
+    private static async Task<IResult> GetAllBreeds(GetAllBreedsRequestParameters parameters, IMediator mediator, HttpContext context)
     {
         var response = await mediator.Send(new GetAllBreedsQuery(parameters.PageNumber, parameters.PageSize));
         context.Response.Headers.Add("X-Pagination", JsonSerializer.Serialize(response.MetaData));

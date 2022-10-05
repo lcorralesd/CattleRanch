@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "14Fu0LiFSoz/By6PZbSO9EezAQSDrFavjlidPFhPQzU=",
+  "Source": "CattleRanch.Web.API",
+  "BasePath": "_content/CattleRanch.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CattleRanch.Web.API.props" />
+</Project>

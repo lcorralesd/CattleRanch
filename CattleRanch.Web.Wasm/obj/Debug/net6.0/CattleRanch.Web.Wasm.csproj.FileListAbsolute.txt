@@ -1,0 +1,6 @@
+D:\Projects\CattleRanch\CattleRanch.Web.Wasm\obj\Debug\net6.0\CattleRanch.Web.Wasm.csproj.AssemblyReference.cache
+D:\Projects\CattleRanch\CattleRanch.Web.Wasm\obj\Debug\net6.0\CattleRanch.Web.Wasm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CattleRanch\CattleRanch.Web.Wasm\obj\Debug\net6.0\CattleRanch.Web.Wasm.AssemblyInfoInputs.cache
+D:\Projects\CattleRanch\CattleRanch.Web.Wasm\obj\Debug\net6.0\CattleRanch.Web.Wasm.AssemblyInfo.cs
+D:\Projects\CattleRanch\CattleRanch.Web.Wasm\obj\Debug\net6.0\CattleRanch.Web.Wasm.csproj.CoreCompileInputs.cache
+D:\Projects\CattleRanch\CattleRanch.Web.Wasm\obj\Debug\net6.0\CattleRanch.Web.Wasm.MvcApplicationPartsAssemblyInfo.cache
